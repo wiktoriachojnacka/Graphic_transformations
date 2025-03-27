@@ -18,22 +18,18 @@ This repository contains various image processing programs developed using **Qt*
 ## 2D Transformations
 In this section, 2D geometric transformations are applied to an image, such as scaling, rotation, and translation. These operations manipulate the image coordinates to transform its geometry in various ways.
 
-![2D Transformations](path_to_your_2d_gif.gif)
 ![Gif 1](gifs/2dgif.gif)
 
 ### Example of 2D Transformation
 This example demonstrates how scaling, rotation, and translation are applied to an image. The program allows users to interactively apply transformations and observe the changes in real-time.
 
 ## 3D Transformations
-This section deals with 3D transformations, including scaling, rotation, and translation in three-dimensional space. These transformations are used to manipulate the geometry of 3D objects or images.
-
-### Example of 3D Transformation
-This section shows how an object or scene is transformed by applying operations in 3D space, including scaling, rotation, and translation.
+This section deals with 3D transformations, including scaling, rotation, and translation in three-dimensional space. These transformations are used to manipulate the geometry of 3D objects or images (including scaling, rotation, and translation).
 
 ## B-Spline
 B-Spline is a curve fitting and interpolation method commonly used in graphic modeling and image processing. It provides smooth and flexible curves through a series of control points.
 
-![B-Spline](path_to_your_bspinline_gif.gif)
+![Gif 2](gifs/B-splinegif.gif)
 
 ### Example of B-Spline Transformation
 This example demonstrates the application of the B-spline algorithm to smooth and interpolate data points, creating a smooth curve through the set of control points.
@@ -41,7 +37,7 @@ This example demonstrates the application of the B-spline algorithm to smooth an
 ## Color Models
 Color models are mathematical representations of colors in digital images. In this section, different color spaces such as RGB, CMYK, and HSL are explored, providing insight into how colors are represented in digital media.
 
-![Color Models](path_to_your_color_models_gif.gif)
+![Gif 5](gifs/colormodelsgif.gif)
 
 ### Example of Color Models Transformation
 This section shows the transformation of an image as it is converted between different color models, allowing for better manipulation of color data for tasks like image enhancement or color correction.
@@ -49,7 +45,7 @@ This section shows the transformation of an image as it is converted between dif
 ## Morphological Operations
 Morphological operations are techniques used in image processing to extract image components useful in the representation and description of shape. Common operations include dilation, erosion, opening, and closing.
 
-![Morphological Operations](path_to_your_morphological_operations_gif.gif)
+![Gif 4](gifs/MorphologicalOperationsgif.gif)
 
 ### Example of Morphological Operations
 The GIF shows the application of morphological transformations like dilation and erosion to emphasize or reduce certain features in the image. This is particularly useful in image segmentation and feature extraction tasks.
@@ -57,26 +53,19 @@ The GIF shows the application of morphological transformations like dilation and
 ## Flood Fill
 The Flood Fill algorithm is used to fill a region of an image with a specific color. It is commonly used in computer graphics for tasks like coloring bounded regions in a bitmap or performing region-growing operations.
 
+![Gif 3](gifs/FloodFillgif.gif)
+
 ### Example of Flood Fill
 This section demonstrates how the Flood Fill algorithm is used to fill a closed boundary within an image with a specific color, useful for tasks like object segmentation.
 
 ## Ellipse and Circle
 This section includes algorithms that work with ellipses and circles, including drawing, transforming, and manipulating these shapes in images.
 
-### Example of Ellipse and Circle
-The program demonstrates the creation and transformation of ellipses and circles within an image, using techniques like scaling and rotating these shapes.
-
 ## Line Drawing
 The Line Drawing algorithm focuses on efficient ways to draw lines between two points. It covers techniques such as Bresenham's line algorithm for raster graphics.
 
-### Example of Line Drawing
-This example demonstrates how the program draws lines using an optimized algorithm, showcasing the creation of straight lines in digital graphics.
-
 ## Scanline Algorithm
 The Scanline algorithm is widely used in computer graphics for tasks like filling polygons, removing hidden surfaces, and performing shading in raster graphics.
-
-### Example of Scanline Algorithm
-This section shows how the Scanline algorithm can be applied to efficiently fill areas in a polygon or apply shading to 3D objects.
 
 ## Getting Started
 

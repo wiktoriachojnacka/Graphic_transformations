@@ -19,6 +19,7 @@ This repository contains various image processing programs developed using **Qt*
 In this section, 2D geometric transformations are applied to an image, such as scaling, rotation, and translation. These operations manipulate the image coordinates to transform its geometry in various ways.
 
 ![2D Transformations](path_to_your_2d_gif.gif)
+![Gif 1](gifs/2dgif.gif)
 
 ### Example of 2D Transformation
 This example demonstrates how scaling, rotation, and translation are applied to an image. The program allows users to interactively apply transformations and observe the changes in real-time.

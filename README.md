@@ -91,4 +91,4 @@ After building the project, you can run any of the individual programs. For exam
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Copyright (c) 2022 [Wiktoria Chojnacka]
